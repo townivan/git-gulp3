@@ -1,1 +1,1 @@
-#silverpop-lp
+#bootstrap project with gulp
